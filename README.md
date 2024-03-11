@@ -8,8 +8,10 @@ I'm a seasoned Data Analyst with a robust technical background and a proven trac
 - **Miscellaneous:** Spreadsheets, Data Governance, and Quality, Ethical Data Handling
 
 ## 💼 Professional Experience
-- **Senior Manager** at Mohinder Singh and Company (India)
+- **Data Analyst** at Upwork (Canada)
 - **Sr. Quality Analyst** and **Technical Support Analyst** at Concentrix (Canada)
+- **Senior Manager** at Mohinder Singh and Company (India)
+
 
 ## 🌟 Key Achievements
 - Boosted customer satisfaction by 10% through enhanced VCS processes.

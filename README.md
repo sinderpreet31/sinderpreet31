@@ -4,8 +4,6 @@
 
 I'm a seasoned Data Analyst with a robust technical background and a proven track record in driving significant business improvements through data-driven insights. With expertise in SQL, Python, R, Tableau, and Power BI, I excel in transforming complex datasets into actionable strategies.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinderpreet31&show_icons=true&theme=radical)
-
 ## 🛠 Technical Skills
 
 - Mastered **SQL, R, and Python** for comprehensive data analysis, statistical modeling, and automation.

@@ -29,6 +29,10 @@ I'm a seasoned Data Analyst with a robust technical background and a proven trac
 ## 🚀 Projects
 - **Movie Recommender System:** A Python project hosted on Heroku.
 - **Cyclistic Bike-Share Analysis:** An insightful analysis performed using R.
+- **IMDB Revenue Prediction**: A Python-based analysis leveraging Numpy, Pandas, and advanced data manipulation techniques to forecast movie revenues and pinpoint lucrative genres on IMDB.
+- **YouTube Trend Analysis**: An exploration of trending YouTube videos, using Python to examine duration, viewership, and engagement metrics, culminating in Google Sheets reports for strategic content recommendations.
+- **Supplier Metrics Dashboard**: A Power BI project offering a detailed supplier overview and volume movement analysis through interactive dashboards and visual data exploration.
+- **Shipping Expense Verification**: A comprehensive analysis using Google Sheets to ensure accuracy in shipping charges through advanced functions like VLOOKUP and PIVOT TABLE, fostering financial clarity with shipping partners.
 
 ## 📞 Contact & Socials
 - **Email:** inderpreetsingh3108@gmail.com

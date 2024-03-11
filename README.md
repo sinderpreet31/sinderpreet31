@@ -8,8 +8,8 @@ I'm a seasoned Data Analyst with a robust technical background and a proven trac
 - **Miscellaneous:** Spreadsheets, Data Governance, and Quality, Ethical Data Handling
 
 ## 💼 Professional Experience
-- **Senior Manager** at Mohinder Singh and Company
-- **Sr. Quality Analyst** and **Technical Support Analyst** at Concentrix
+- **Senior Manager** at Mohinder Singh and Company (India)
+- **Sr. Quality Analyst** and **Technical Support Analyst** at Concentrix (Canada)
 
 ## 🌟 Key Achievements
 - Boosted customer satisfaction by 10% through enhanced VCS processes.

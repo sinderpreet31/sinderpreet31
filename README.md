@@ -14,7 +14,7 @@ I'm a seasoned Data Analyst with a robust technical background and a proven trac
 
 - **Data Analyst at Upwork (Canada):** Spearheaded data-driven strategies, enhancing business operations with precise analytics and reporting.
 - **Sr. Quality Analyst & Technical Support Analyst at Concentrix (Canada):** Elevated service quality and operational efficiency through meticulous analysis and tech support.
-- **Senior Manager at Mohinder Singh and Company (India):** Led business strategy and operations, leveraging analytics for enhanced decision-making and growth.
+- **Data Analyst at Amazon(India):** Led business strategy and operations, leveraging analytics for enhanced decision-making and growth.
 
 ## 🌟 Key Achievements
 

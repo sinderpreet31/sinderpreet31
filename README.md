@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Inderpreet Singh! 👋
 
-I'm a seasoned Data Analyst with a robust technical background and a proven track record in driving significant business improvements through data-driven insights. With expertise in SQL, Python, R, Tableau, and Power BI, I excel in transforming complex datasets into actionable strategies.
+Analytical and results-driven professional with a strong background in data analysis and reporting. Experienced in extracting insights from diverse data sets to drive profitability and enhance customer experience. Skilled in advanced analytics, modeling, and data visualization, with a proactive approach to identifying business opportunities and challenges. Committed to ensuring compliance with legal and regulatory standards while delivering accurate and actionable insights.
 
 ## 🛠 Technical Skills
 

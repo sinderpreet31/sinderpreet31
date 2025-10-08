@@ -12,7 +12,7 @@ Analytical and results-driven professional with a strong background in data anal
   
 ## 💼 Professional Experience
 
-- **Data Analyst at Upwork (Canada):** Spearheaded data-driven strategies, enhancing business operations with precise analytics and reporting.
+- **Merchandise Analyst at Walmart (Canada):** Spearheaded data-driven strategies, enhancing business operations with precise analytics and reporting.
 - **Sr. Quality Analyst & Technical Support Analyst at Concentrix (Canada):** Elevated service quality and operational efficiency through meticulous analysis and tech support.
 - **Data Analyst at Mohinder Singh & Co (India):** Led business strategy and operations, leveraging analytics for enhanced decision-making and growth.
 
